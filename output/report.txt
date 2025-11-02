@@ -1,0 +1,12 @@
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-F_Cu.gbr'.
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-B_Cu.gbr'.
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-F_Paste.gbr'.
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-B_Paste.gbr'.
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-F_Silkscreen.gbr'.
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-B_Silkscreen.gbr'.
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-F_Mask.gbr'.
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-B_Mask.gbr'.
+Plotted to '/home/sneak/KicadProjects/MacroPad/output/MacroPad-Edge_Cuts.gbr'.
+Created Gerber job file '/home/sneak/KicadProjects/MacroPad/output/MacroPad-job.gbrjob'.
+Info: Done.
+Info: Done.
