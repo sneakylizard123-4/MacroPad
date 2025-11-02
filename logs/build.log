@@ -1,0 +1,275 @@
+[2025-11-02 19:51:12,675 key_placer.py:361]: Set key 1U distance: 19050000/19050000
+[2025-11-02 19:51:12,687 key_placer.py:123]: Switches by nets: defaultdict(<class 'list'>, {frozenset({'ROW3', 'COL1'}): ['SW16'], frozenset({'ROW1', 'COL0'}): ['SW6'], frozenset({'ROW3', 'COL0'}): ['SW15'], frozenset({'ROW0', 'COL0'}): ['SW1'], frozenset({'COL2', 'ROW2'}): ['SW12'], frozenset({'ROW4', 'COL3'}): ['SW21'], frozenset({'COL4', 'ROW3'}): ['SW18'], frozenset({'ROW0', 'COL1'}): ['SW2'], frozenset({'ROW4', 'COL1'}): ['SW19'], frozenset({'COL2', 'ROW3'}): ['SW17'], frozenset({'COL4', 'ROW0'}): ['SW5'], frozenset({'ROW2', 'COL1'}): ['SW11'], frozenset({'ROW1', 'COL1'}): ['SW7'], frozenset({'ROW0', 'COL3'}): ['SW4'], frozenset({'ROW2', 'COL0'}): ['SW10'], frozenset({'COL4', 'ROW2'}): ['SW14'], frozenset({'ROW2', 'COL3'}): ['SW13'], frozenset({'COL2', 'ROW0'}): ['SW3'], frozenset({'ROW4', 'COL2'}): ['SW20'], frozenset({'COL2', 'ROW1'}): ['SW8'], frozenset({'ROW4', 'COL4'}): ['SW22'], frozenset({'COL4', 'ROW1'}): ['SW9']})
+[2025-11-02 19:51:12,687 key_placer.py:127]: Diodes by switch: {'SW19': ['D19'], 'SW12': ['D12'], 'SW3': ['D3'], 'SW21': ['D21'], 'SW9': ['D9'], 'SW5': ['D5'], 'SW14': ['D14'], 'SW15': ['D15'], 'SW6': ['D6'], 'SW11': ['D11'], 'SW2': ['D2'], 'SW1': ['D1'], 'SW4': ['D4'], 'SW13': ['D13'], 'SW10': ['D10'], 'SW17': ['D17'], 'SW18': ['D18'], 'SW7': ['D7'], 'SW8': ['D8'], 'SW22': ['D22'], 'SW20': ['D20'], 'SW16': ['D16']}
+[2025-11-02 19:51:12,689 kle_serial.py:897]: User layout: {'meta': {'author': '', 'backcolor': '#eeeeee', 'background': {'name': '', 'style': ''}, 'name': '', 'notes': '', 'radii': '', 'switchBrand': '', 'switchMount': '', 'switchType': ''}, 'keys': [{'color': '#cccccc', 'labels': ['0,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': True, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3, 'y': 1, 'width': 1, 'height': 2, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 2, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 4, 'width': 2, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 2, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2, 'y': 4, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3, 'y': 3, 'width': 1, 'height': 2, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 2, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4, 'y': 4, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}]}
+[2025-11-02 19:51:12,691 key_placer.py:986]: Detected layout convertible to matrix annotated keyboard
+[2025-11-02 19:51:12,692 key_placer.py:300]: Got ['SW1'] for ('0', '0') position
+[2025-11-02 19:51:12,693 key_placer.py:661]: Layout offset: (28575000, 28575000)
+[2025-11-02 19:51:12,693 key_placer.py:300]: Got ['SW1'] for ('0', '0') position
+[2025-11-02 19:51:12,693 board_modifier.py:85]: Setting SW1 footprint position: (38100000, 38100000)
+[2025-11-02 19:51:12,693 key_placer.py:300]: Got ['SW2'] for ('0', '1') position
+[2025-11-02 19:51:12,693 board_modifier.py:85]: Setting SW2 footprint position: (57150000, 38100000)
+[2025-11-02 19:51:12,693 key_placer.py:300]: Got ['SW3'] for ('0', '2') position
+[2025-11-02 19:51:12,693 board_modifier.py:85]: Setting SW3 footprint position: (76200000, 38100000)
+[2025-11-02 19:51:12,693 key_placer.py:300]: Got ['SW4'] for ('0', '3') position
+[2025-11-02 19:51:12,693 board_modifier.py:85]: Setting SW4 footprint position: (95250000, 38100000)
+[2025-11-02 19:51:12,693 key_placer.py:300]: Got ['SW5'] for ('0', '4') position
+[2025-11-02 19:51:12,693 board_modifier.py:85]: Setting SW5 footprint position: (114300000, 38100000)
+[2025-11-02 19:51:12,693 key_placer.py:300]: Got ['SW6'] for ('1', '0') position
+[2025-11-02 19:51:12,693 board_modifier.py:85]: Setting SW6 footprint position: (38100000, 57150000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW7'] for ('1', '1') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW7 footprint position: (57150000, 57150000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW8'] for ('1', '2') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW8 footprint position: (76200000, 57150000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW9'] for ('1', '4') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW9 footprint position: (114300000, 57150000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW10'] for ('2', '0') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW10 footprint position: (38100000, 76200000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW11'] for ('2', '1') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW11 footprint position: (57150000, 76200000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW12'] for ('2', '2') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW12 footprint position: (76200000, 76200000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW13'] for ('2', '3') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW13 footprint position: (95250000, 66675000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW14'] for ('2', '4') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW14 footprint position: (114300000, 76200000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW15'] for ('3', '0') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW15 footprint position: (38100000, 95250000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW16'] for ('3', '1') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW16 footprint position: (57150000, 95250000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW17'] for ('3', '2') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW17 footprint position: (76200000, 95250000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW18'] for ('3', '4') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW18 footprint position: (114300000, 95250000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW19'] for ('4', '1') position
+[2025-11-02 19:51:12,694 board_modifier.py:85]: Setting SW19 footprint position: (47625000, 114300000)
+[2025-11-02 19:51:12,694 key_placer.py:300]: Got ['SW20'] for ('4', '2') position
+[2025-11-02 19:51:12,695 board_modifier.py:85]: Setting SW20 footprint position: (76200000, 114300000)
+[2025-11-02 19:51:12,695 key_placer.py:300]: Got ['SW21'] for ('4', '3') position
+[2025-11-02 19:51:12,695 board_modifier.py:85]: Setting SW21 footprint position: (95250000, 104775000)
+[2025-11-02 19:51:12,695 key_placer.py:300]: Got ['SW22'] for ('4', '4') position
+[2025-11-02 19:51:12,695 board_modifier.py:85]: Setting SW22 footprint position: (114300000, 114300000)
+[2025-11-02 19:51:12,695 key_placer.py:996]: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.CUSTOM: 'Custom'>, position=ElementPosition(x=5.08, y=4, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='')]
+[2025-11-02 19:51:12,696 board_modifier.py:98]: Getting SW1 footprint position: (38100000, 38100000)
+[2025-11-02 19:51:12,696 board_modifier.py:85]: Setting D1 footprint position: (43180000, 42100000)
+[2025-11-02 19:51:12,696 board_modifier.py:98]: Getting SW2 footprint position: (57150000, 38100000)
+[2025-11-02 19:51:12,696 board_modifier.py:85]: Setting D2 footprint position: (62230000, 42100000)
+[2025-11-02 19:51:12,696 board_modifier.py:98]: Getting SW3 footprint position: (76200000, 38100000)
+[2025-11-02 19:51:12,696 board_modifier.py:85]: Setting D3 footprint position: (81280000, 42100000)
+[2025-11-02 19:51:12,696 board_modifier.py:98]: Getting SW4 footprint position: (95250000, 38100000)
+[2025-11-02 19:51:12,696 board_modifier.py:85]: Setting D4 footprint position: (100330000, 42100000)
+[2025-11-02 19:51:12,696 board_modifier.py:98]: Getting SW5 footprint position: (114300000, 38100000)
+[2025-11-02 19:51:12,696 board_modifier.py:85]: Setting D5 footprint position: (119380000, 42100000)
+[2025-11-02 19:51:12,696 board_modifier.py:98]: Getting SW6 footprint position: (38100000, 57150000)
+[2025-11-02 19:51:12,696 board_modifier.py:85]: Setting D6 footprint position: (43180000, 61150000)
+[2025-11-02 19:51:12,696 board_modifier.py:98]: Getting SW7 footprint position: (57150000, 57150000)
+[2025-11-02 19:51:12,696 board_modifier.py:85]: Setting D7 footprint position: (62230000, 61150000)
+[2025-11-02 19:51:12,696 board_modifier.py:98]: Getting SW8 footprint position: (76200000, 57150000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D8 footprint position: (81280000, 61150000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW9 footprint position: (114300000, 57150000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D9 footprint position: (119380000, 61150000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW10 footprint position: (38100000, 76200000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D10 footprint position: (43180000, 80200000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW11 footprint position: (57150000, 76200000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D11 footprint position: (62230000, 80200000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW12 footprint position: (76200000, 76200000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D12 footprint position: (81280000, 80200000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW13 footprint position: (95250000, 66675000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D13 footprint position: (100330000, 70675000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW14 footprint position: (114300000, 76200000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D14 footprint position: (119380000, 80200000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW15 footprint position: (38100000, 95250000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D15 footprint position: (43180000, 99250000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW16 footprint position: (57150000, 95250000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D16 footprint position: (62230000, 99250000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW17 footprint position: (76200000, 95250000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D17 footprint position: (81280000, 99250000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW18 footprint position: (114300000, 95250000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D18 footprint position: (119380000, 99250000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW19 footprint position: (47625000, 114300000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D19 footprint position: (52705000, 118300000)
+[2025-11-02 19:51:12,697 board_modifier.py:98]: Getting SW20 footprint position: (76200000, 114300000)
+[2025-11-02 19:51:12,697 board_modifier.py:85]: Setting D20 footprint position: (81280000, 118300000)
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW21 footprint position: (95250000, 104775000)
+[2025-11-02 19:51:12,698 board_modifier.py:85]: Setting D21 footprint position: (100330000, 108775000)
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW22 footprint position: (114300000, 114300000)
+[2025-11-02 19:51:12,698 board_modifier.py:85]: Setting D22 footprint position: (119380000, 118300000)
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW16
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW16 footprint position: (57150000, 95250000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST16 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW6
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW6 footprint position: (38100000, 57150000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST6 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW15
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW15 footprint position: (38100000, 95250000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST15 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW1
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW1 footprint position: (38100000, 38100000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST1 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW12
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW12 footprint position: (76200000, 76200000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST12 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW21
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW21 footprint position: (95250000, 104775000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST21 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW18
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW18 footprint position: (114300000, 95250000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST18 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW2
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW2 footprint position: (57150000, 38100000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST2 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW19
+[2025-11-02 19:51:12,698 board_modifier.py:98]: Getting SW19 footprint position: (47625000, 114300000)
+[2025-11-02 19:51:12,698 board_modifier.py:75]: Searching for optional ST19 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,698 board_modifier.py:85]: Setting ST19 footprint position: (47625000, 114300000)
+[2025-11-02 19:51:12,698 key_placer.py:774]: Placing additional elements for SW17
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW17 footprint position: (76200000, 95250000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST17 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW5
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW5 footprint position: (114300000, 38100000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST5 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW11
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW11 footprint position: (57150000, 76200000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST11 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW7
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW7 footprint position: (57150000, 57150000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST7 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW4
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW4 footprint position: (95250000, 38100000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST4 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW10
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW10 footprint position: (38100000, 76200000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST10 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW14
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW14 footprint position: (114300000, 76200000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST14 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW13
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW13 footprint position: (95250000, 66675000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST13 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW3
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW3 footprint position: (76200000, 38100000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST3 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW20
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW20 footprint position: (76200000, 114300000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST20 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW8
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW8 footprint position: (76200000, 57150000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST8 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW22
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW22 footprint position: (114300000, 114300000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST22 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,699 key_placer.py:774]: Placing additional elements for SW9
+[2025-11-02 19:51:12,699 board_modifier.py:98]: Getting SW9 footprint position: (114300000, 57150000)
+[2025-11-02 19:51:12,699 board_modifier.py:75]: Searching for optional ST9 footprint in /kicad/e5651004-c7d7-4c34-a431-7f84b6b02ff8/keyboard/keyboard.kicad_pcb
+[2025-11-02 19:51:12,699 board_modifier.py:80]: Footprint not found
+[2025-11-02 19:51:12,701 edge_generator.py:135]: Running board edge generation around footprints with annotation matching 'SW{}' format
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :Stabilizer_Cherry_MX_2.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_2.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123.back has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :D_SOD-123 has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :Stabilizer_Cherry_MX_2.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_2.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
+Component :SW_Hotswap_Kailh_MX_1.00u.back has no footprint.
