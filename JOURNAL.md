@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/2/2025 - Routed the pcb  
+## 11/2/2025 3 PM - Routed the pcb  
 
 the drc is hallucinating
 my traces arent tracing
@@ -14,5 +14,18 @@ the silkscreen is clipping
 aaaaAJAPOFHHHEPOjdpaijpsdhhh
 custom sea picro footprint library created
 i hope the mounting holes work![Screenshot_20251102_150125](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--4392eee64f2d5d14cc71f59317d6a4848abdfe11/Screenshot_20251102_150125.png)
+  
+
+## 11/2/2025 4 PM - bom  
+
+made bom
+added parts
+guide is broken
+look for parts
+there are 128 different switches
+found switch
+its the wrong hardness
+look for switch again found switch
+happy![Screenshot_20251102_162414](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--6cb9649cae8201e75bb8090e844af8a096e0024a/Screenshot_20251102_162414.png)
   
 
