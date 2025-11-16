@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.5"
+      "Version": "9.0.6"
     },
-    "CreationDate": "2025-11-02T15:14:47-08:00"
+    "CreationDate": "2025-11-16T09:10:11-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "MacroPad-F_Cu.gbr",
+      "Path": "MacroPad-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MacroPad-B_Cu.gbr",
+      "Path": "MacroPad-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MacroPad-F_Paste.gbr",
+      "Path": "MacroPad-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MacroPad-B_Paste.gbr",
+      "Path": "MacroPad-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MacroPad-F_Silkscreen.gbr",
+      "Path": "MacroPad-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MacroPad-B_Silkscreen.gbr",
+      "Path": "MacroPad-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MacroPad-F_Mask.gbr",
+      "Path": "MacroPad-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "MacroPad-B_Mask.gbr",
+      "Path": "MacroPad-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "MacroPad-Edge_Cuts.gbr",
+      "Path": "MacroPad-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
